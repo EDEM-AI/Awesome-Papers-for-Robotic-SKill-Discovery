@@ -158,9 +158,9 @@ Methods that automatically propose tasks, goals, simulation programs, or trainin
 - [2022.11] Active Task Randomization: Learning Robust Skills via Unsupervised Generation of Diverse and Feasible Tasks [[paper](https://arxiv.org/abs/2211.06134)]
 - [2021.06] Discovering Generalizable Skills via Automated Generation of Diverse Tasks [[paper](https://arxiv.org/abs/2106.13935)]
 
-## 6. Extraction, Composition, and Deployment of Discovered Robotic Skills
+## 6. Deployment of Discovered Robotic Skills
 
-Methods that turn discovered or segmented behaviors into reusable skills that can be adapted, composed, and deployed on downstream tasks.
+Methods that convert discovered or segmented trajectories into executable skill units, scale their valid operating conditions, compose them into long-horizon behaviors, and verify their deployment across objects, scenes, embodiments, and physical environments.
 
 - [2026.07] Robots Acquire Manipulation Skills in Seconds from a Single Human Video (HOST) [[paper](https://arxiv.org/abs/2607.20033)]
 - [2026.06] An Embodied Simulation Platform, Benchmark, and Success-Verified Simulation Augmentation Framework for Wet-Lab Robotics (Pipette) [[paper](https://arxiv.org/abs/2606.12936)]
@@ -172,9 +172,9 @@ Methods that turn discovered or segmented behaviors into reusable skills that ca
 - [2025.12] IGen: Scalable Data Generation for Robot Learning from Open-World Images [[paper](https://arxiv.org/abs/2512.01773)]
 - [2025.11] SkillWrapper: Generative Predicate Invention for Task-Level Robot Planning [[paper](https://arxiv.org/abs/2511.18203)]
 - [2025.09] Annotation-Free One-Shot Imitation Learning for Multi-Step Manipulation Tasks [[paper](https://arxiv.org/abs/2509.24972)] [[code](https://github.com/vijja-w/AF-OSIL-MS)]
-- [2025.09] RoboTwin 2.0: A Scalable Data Generator and Benchmark with Strong Domain Randomization for Robust Bimanual Robotic Manipulation [[paper](https://arxiv.org/abs/2506.18088)] [[project](https://robotwin-platform.github.io/doc/index.html)]
 - [2025.09] VLBiMan: Vision-Language Anchored One-Shot Demonstration Enables Generalizable Bimanual Robotic Manipulation [[paper](https://arxiv.org/abs/2509.21723)] [[project](https://hnuzhy.github.io/projects/VLBiMan/)]
-- [2025.08] TReF-6: Inferring Task-Relevant Frames from a Single Demonstration for One-Shot Skill Generalization [[paper](https://arxiv.org/abs/2509.00310)]
+- [2025.09] TReF-6: Inferring Task-Relevant Frames from a Single Demonstration for One-Shot Skill Generalization [[paper](https://arxiv.org/abs/2509.00310)]
+- [2025.06] RoboTwin 2.0: A Scalable Data Generator and Benchmark with Strong Domain Randomization for Robust Bimanual Robotic Manipulation [[paper](https://arxiv.org/abs/2506.18088)] [[project](https://robotwin-platform.github.io/doc/index.html)]
 - [2025.06] DynScene: Scalable Generation of Dynamic Robotic Manipulation Scenes for Embodied AI [[paper](https://openaccess.thecvf.com/content/CVPR2025/html/Lee_DynScene_Scalable_Generation_of_Dynamic_Robotic_Manipulation_Scenes_for_Embodied_CVPR_2025_paper.html)]
 - [2025.06] RoboCerebra: A Large-Scale Benchmark for Long-Horizon Robotic Manipulation Evaluation [[paper](https://arxiv.org/abs/2506.06677)] [[project](https://robocerebra.github.io/)]
 - [2025.05] DexScale: Automating Data Scaling for Sim2Real Generalizable Robot Control [[paper](https://proceedings.mlr.press/v267/liu25k.html)] [[project](https://edem-ai.github.io/dexscale.github.io/)]
@@ -183,7 +183,7 @@ Methods that turn discovered or segmented behaviors into reusable skills that ca
 - [2024.10] DexMimicGen: Automated Data Generation for Bimanual Dexterous Manipulation via Imitation Learning [[paper](https://arxiv.org/abs/2410.24185)]
 - [2024.10] SDS: See It, Do It, Sorted: Quadruped Skill Synthesis from Single Video Demonstration [[paper](https://arxiv.org/abs/2410.11571)] [[project](https://rpl-cs-ucl.github.io/SDSweb)]
 - [2024.10] SkillMimicGen: Automated Demonstration Generation for Efficient Skill Learning and Deployment [[paper](https://arxiv.org/abs/2410.18907)] [[project](https://skillgen.github.io/)]
-- [2023.10] Generative Skill Chaining: Long-Horizon Skill Planning with Diffusion Models [[paper](https://arxiv.org/abs/2401.03360)] [[project](https://generative-skill-chaining.github.io/)]
+- [2024.01] Generative Skill Chaining: Long-Horizon Skill Planning with Diffusion Models [[paper](https://arxiv.org/abs/2401.03360)] [[project](https://generative-skill-chaining.github.io/)]
 - [2022.03] DiffSkill: Skill Abstraction from Differentiable Physics for Deformable Object Manipulations with Tools [[paper](https://arxiv.org/abs/2203.17275)]
 - [2021.07] Hierarchical Few-Shot Imitation with Skill Transition Models [[paper](https://arxiv.org/abs/2107.08981)]
 - [2021.06] The Option Keyboard: Combining Skills in Reinforcement Learning [[paper](https://arxiv.org/abs/2106.13105)]
